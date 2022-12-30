@@ -3,16 +3,24 @@
 ### BACKEND
 
 - entrar en el directorio **backend**
-- Instalar dependencias
-- Modificar valores de conexión
-- Abrir el cliente psql y ejecutar las sentencias DDL en sql
-- Leventar el servidor
+- instalar dependencias
+- modificar valores de conexión
+- abrir el cliente psql y ejecutar las sentencias DDL en sql
+- leventar el servidor
 
 
 ### FRONTEND
 
 - entrar en el directorio **frontend**
 - abrir el archivo index.html con el navegador o servidor web local
+
+### DEMO 
+
+- entra a la plataforma de replit solo para que se ejecute el servidor.
+- entra a la plataforma de netlify para interactuar con la base de datos.
+
+[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://likeme.marcocontreraas.repl.co/posts)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://aquamarine-halva-e05f0f.netlify.app/)
 
 ---
 
@@ -78,3 +86,7 @@ Entrar al proyecto de **frontend** y abrir el archivo **index.html** con cualqui
 ### SCREENSHOT 
 
 ![screenshot](screenshot.png)
+
+
+
+
